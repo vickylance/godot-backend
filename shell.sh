@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo $SHELL
+source ~/.bashrc
